@@ -6,7 +6,7 @@ Laboratorio 5
 **grupo:** Ccomp 3-1
 
 
- 1.- Implementar un algoritmo para calcular x (el inverso multiplicativo de a, m´odulo n). El programa debe permitir ingresar el n´umero a y n, luego debe
+ 1.- Implementar un algoritmo para calcular x (el inverso multiplicativo de a, modulo n). El programa debe permitir ingresar el numero a y n, luego debe
 retorna el valor de x (si es que existe).
  
  - ¿Cual es la inversa multiplicativa?
